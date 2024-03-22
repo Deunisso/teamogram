@@ -32,8 +32,8 @@ if(posts)
       <div class="icons">
           <div class="icon_left d-flex">
               <div class="like">
-                  <img class="not_loved" src="./images/love.png" >
-                  <img class="loved" src="./images/heart.png" >
+                  <img class="not_loved" src="./images/heart.png" >
+                  <img class="loved" src="./images/love.png" >
               </div>
               <div class="chat">
                   <button type="button" class="btn p-0" data-bs-toggle="modal"
