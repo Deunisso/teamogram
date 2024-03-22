@@ -281,7 +281,17 @@ const reels_data = [
   '23.4K',
   '11',
   ],
-  
+
+  ['./video/video11.mp4',
+  './images/profile_img.jpg',
+  'denils.on',
+  'Te amo...',
+  'Vozes divinas',
+  'On my mind',
+  '23.4K',
+  '11',
+  ],
+	
 ]
 const reels_container = document.querySelector(".reels");
 
